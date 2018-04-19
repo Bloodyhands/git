@@ -1,2 +1,3 @@
 Voici un fichier texte
 On fait une modification du fichier texte
+Maintenant on fait un calcul de base 2+2
