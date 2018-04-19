@@ -1,1 +1,2 @@
 Voici un fichier texte
+On fait une modification du fichier texte
